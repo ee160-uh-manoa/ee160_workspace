@@ -1,0 +1,28 @@
+start
+
+
+check if number of existing credits are bearable
+  choose another course
+check if professor is an idiot
+  choose another course
+check if prerequisites are met
+  choose another course
+check if course is full
+  choose another course
+check if the textbook is legit
+  choose another course
+check if the classroom distance is walkable
+  choose another course
+
+
+check if course subject is interesting
+  check if the course is required
+    check if course meeting times meet your schedule
+      check for time conflicts
+        choose course
+otherwise
+  check for equivalent alternative courses are available
+    check for another course    
+      choose another course
+
+end

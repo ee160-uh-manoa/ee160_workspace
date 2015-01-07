@@ -1,0 +1,31 @@
+zebra
+ezbra
+arbez
+
+zebra(\0)*****
+
+arbez(\0)*****
+
+
+*(\0)arbez****
+
+option 1:
+zebra
+_____
+
+aebrz
+a____
+
+aberz
+ab___
+
+option 2:
+zebra
+ezbra
+ebzra
+ebrza
+ebraz
+
+beraz
+bearz
+bearz

@@ -1,0 +1,6 @@
+check if the account balance is less than 500
+  display a message to tell the teller to charge a minimum balance
+otherwise
+  check if the account balance is less than $1,000
+    check if the account is a saving account
+      display a message to tell the teller to charge a minimum balance

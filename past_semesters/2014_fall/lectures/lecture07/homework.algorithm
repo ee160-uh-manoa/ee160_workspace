@@ -1,0 +1,12 @@
+start
+
+check if it is Saturday Daytime
+  check if assignment is required
+    check if assignment is hard
+      do now
+    check if assignment due soon
+  check if there are solutions to the assignment
+otherwise
+  wait
+
+end

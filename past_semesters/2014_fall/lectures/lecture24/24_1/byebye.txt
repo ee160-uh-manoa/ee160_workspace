@@ -1,0 +1,3 @@
+=== Account Information for byebye's Account ===
+Minimum Balance Fee to Account Balance Percentage: 35.0%
+The new account balance is 65.00
